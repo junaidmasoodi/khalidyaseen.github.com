@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: 1 April 2014
+category: Web Development
+description: This is my test project. If you are on this page. Means the site is up and running.
+
+---
